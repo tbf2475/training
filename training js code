@@ -23,7 +23,13 @@
     <script src="./book_system.js"></script>
 </body>
 </html>
+see below...keep going...next is javascript code... attached to the above code
 
+
+
+
+
+//js code starts here//
 let books = [];
   function addBook() {
             const bookName = document.getElementById('bookName').value;
